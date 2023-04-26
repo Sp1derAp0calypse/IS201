@@ -76,7 +76,7 @@ p{
 .right-box{
     position:absolute;
     top: 150vh;
-    left: 105vh;
+    left: 112vh;
     width: calc(50%-20px);
     float: right;
 }
