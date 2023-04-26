@@ -1,0 +1,83 @@
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    text-shadow: 0 0 2px black;
+    color: darkred;
+    line-height: .09em;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-shadow: 0 0 2px black;
+    color: darkred;
+    line-height: .09em;
+}
+ol{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14;
+    color: white;
+    font-weight: bold;
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12;
+    color: white;
+    font-style: italic;
+    font-weight: normal;
+}
+.black-box {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    max-width: 50%;
+}
+  
+.black-box img {
+    max-width: 100%;
+}
+  
+.black-box p {
+    color: white;
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    margin-top: 20px;
+}  
+.black-box {
+    position: absolute;
+    top: 100vh;
+    left: 0;
+    width: 100%;
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+}
+p{
+    max-width: 100%;
+    font-size: 16px;
+    line-height: 1.2;
+}
+.right-video {
+    float: right;
+    width: calc(50% - 20px);
+    position: absolute;
+    top: 100vh;
+    left: 105vh;
+}
+.right-box{
+    background-color: black;
+    padding: 20px;
+    text-align: left;
+    max-width: 50%;
+}
+.right-box{
+    position:absolute;
+    top: 150vh;
+    left: 105vh;
+    width: calc(50%-20px);
+    float: right;
+}
+  
