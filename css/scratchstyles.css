@@ -65,7 +65,7 @@ p{
     width: calc(50% - 20px);
     position: absolute;
     top: 100vh;
-    left: 105vh;
+    left: 115vh;
 }
 .right-box{
     background-color: black;
@@ -76,7 +76,7 @@ p{
 .right-box{
     position:absolute;
     top: 150vh;
-    left: 112vh;
+    left: 115vh;
     width: calc(50%-20px);
     float: right;
 }
